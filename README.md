@@ -1,5 +1,5 @@
 # AndroidToDO
-Android simpe calculator
+Android simpe Todo
 
 How many hours did it take to complete?
 
