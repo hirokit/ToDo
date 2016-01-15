@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color> <!-- Blue 500 -->
+    <color name="colorPrimaryDark">#1976D2</color> <!-- Blue 700 -->
+    <color name="colorAccent">#C51162</color> <!-- Maroon Dark  -->
+
+    <color name="searchViewQueryBackground">#F0F4C3</color><!-- Lime 100 -->
+    <color name="searchViewSubmitBackground">#D7CCC8</color><!-- Brown 100 -->
+</resources>

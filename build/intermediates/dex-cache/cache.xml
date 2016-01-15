@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/pre-dexed/debug/classes-f2150471fd69381946021aaa36a4a9f403bb56af.jar" />
+    </item>
+    <item
+        jar="/Users/taketomohiroki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-73e2e1fe24bf9a7ae3a874d111a6da3e281b43f9.jar" />
+    </item>
+    <item
+        jar="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/pre-dexed/debug/commons-io-2.4-610b900296b132c7755e2d4a224c8499a5a5ab60.jar" />
+    </item>
+    <item
+        jar="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/pre-dexed/debug/classes-0fc1fd5f20ab571e63e448727ca28ac4ad4b8956.jar" />
+    </item>
+    <item
+        jar="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-446efefb2986653253e74e68756b4f38d9b7cb8f.jar" />
+    </item>
+    <item
+        jar="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/taketomohiroki/Documents/CODE/Source Code/Android/codepath-todo/app/build/intermediates/pre-dexed/debug/classes-33903aab27ed5fa15627e8df72a8b0c56f90713e.jar" />
+    </item>
+
+</items>
